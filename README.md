@@ -1,4 +1,6 @@
-YZCategories
+![Logo](/icon.png)
+
+Yozhik
 ============
 
 Yozhik is the Russian word for Hedgehog. Honestly, it's just a random name.
