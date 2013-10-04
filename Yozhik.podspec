@@ -12,5 +12,5 @@ Pod::Spec.new do |s|
   
   s.source       = { :git => "https://github.com/modethree3/Yozhik.git", :tag => "0.1.0" }
   s.public_header_files = 'Yozhik/*.h'
-  s.source_files  = 'Yozhik/Yozhik.h'
+  s.source_files  = '*.{h,m}'
 end
