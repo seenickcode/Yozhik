@@ -29,7 +29,5 @@
 	#import "UIAlertView+YZ.h"
 	#import "UIView+YZ.h"
 	#import "UIViewController+YZ.h"
-	#import "YZTableViewController.h"
-	#import "YZUserDefaults.h"
 
 #endif /* Yozhik_h */

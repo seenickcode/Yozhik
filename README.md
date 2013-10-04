@@ -5,7 +5,13 @@ Yozhik
 
 Yozhik is the Russian word for Hedgehog. Honestly, it's just a random name.
  
-This project mostly contains categories I use for almost any project which
-makes iOS code cleaner with more of a functional programming style.
+Yozhik is intended to be a go-to set of categories for almost any iOS project.  
 
-More examples to come...
+Examples
+------------
+
+  [myView width]; // concise way to get measurements
+  
+  [myView resizeToWidth:320]; // easy resizing views
+  
+  [UIAlertView showWithTitle:@"Title" message:@"My message"]; // easy alert views
